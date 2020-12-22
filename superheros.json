@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "name": "caption america",
+    "age": "56",
+    "planet": "earth",
+    "weapons": "vibranuim shield"
+  },
+  {
+    "id": "3",
+    "name": "black panther",
+    "age": "76",
+    "planet": "earth",
+    "weapons": "energy dagger"
+  },
+  {
+    "id": "4",
+    "name": "jessica jones",
+    "age": "25",
+    "planet": "earth",
+    "weapons": "self talent/powers"
+  },
+  { "id": "5",
+     "name": "updated name" ,
+     "age":"55",
+     "weapons":"updated weapon"
+    
+    
+    },
+  {
+    "id": "6",
+    "name": "killmonger",
+    "age": "46",
+    "planet": "earth",
+    "weapons": "firearms"
+  },
+  {
+    "id": "7",
+    "name": "wolverine",
+    "age": "29",
+    "planet": "earth",
+    "weapons": "adamantium claws"
+  },
+  {
+    "id": "8",
+    "name": "ultron",
+    "age": "54",
+    "planet": "earth",
+    "weapons": "repulsor"
+  },
+  {
+    "id": "9",
+    "name": "iron fist",
+    "age": "24",
+    "planet": "earth",
+    "weapons": "martial arts weapons"
+  },
+  {
+    "id": "10",
+    "name": "ghost rider",
+    "age": "66",
+    "planet": "earth",
+    "weapons": "hellfire chain"
+  }
+  
+]
